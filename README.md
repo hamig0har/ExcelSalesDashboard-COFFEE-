@@ -10,9 +10,7 @@ This project is a comprehensive analysis of coffee sales data, presented through
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
